@@ -17,3 +17,5 @@ Lista de Atividades:
         - Identificar fontes confiáveis de informação, como livros, sites acadêmicos e documentos governamentais.
         - Registrar as descobertas e organizar as informações em um formato acessível.
 
+2 - Criação do wireframe da página index.
+
