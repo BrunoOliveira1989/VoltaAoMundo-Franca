@@ -19,3 +19,4 @@ Lista de Atividades:
 
 2 - Criação do wireframe da página index.
 
+3 - Criação da página index.
