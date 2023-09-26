@@ -2,7 +2,7 @@
     background:url(../img/bg_site.jpg);
 }*/
 #topo {
-    background-image: linear-gradient(to bottom, white 35%,rgb(220, 234, 247) 88%,rgb(252, 211, 211));
+    background-image: linear-gradient(to bottom, white,rgb(201, 229, 255));
     height:150px;
     margin-bottom:0px;
 }
@@ -11,7 +11,7 @@
 }
 #menu-principal {
     margin-bottom:10px;
-    background-color: #0748d3;
+    background-color: #2969f1;
 }
 #meuSlider{
     margin-bottom:50px;
@@ -20,28 +20,39 @@
     margin-bottom:10px;
 }
 #rodape {
-    background-color: #999;
+    background-color: #2969f1;
     text-align: center;
-    padding: 6px;
+    padding: 10px;
 } 
 h1{
-    display: none;
+    color: Red;
+    text-transform: uppercase;
+    font-size: 40px;    
+    font-style: italic;
+    text-shadow: 1px 1px 2px #888; 
+    padding-right: 10px;
 }
 /*.container{
     width: 970px;
 }*/
 h2{
-    color: #000093;
+    color: rgb(235, 235, 235);
+    text-transform: uppercase;
+    font-size: 20px;    
+    font-style: italic;
+    text-shadow: 1px 1px 2px #888;
+    padding-right: 10px;
+}
+h3{
+    text-transform: uppercase;
+    font-size: 18px;
+    color: Red;
     text-transform: uppercase;
     font-size: 30px;    
     margin-bottom: 10px;
     font-style: italic;
     text-shadow: 1px 1px 2px #888; 
     text-align: center;
-}
-h3{
-    text-transform: uppercase;
-    font-size: 18px;
 }
 h4{
     font-size: 14px;
