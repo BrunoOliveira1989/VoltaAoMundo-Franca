@@ -2,16 +2,16 @@
     background:url(../img/bg_site.jpg);
 }*/
 #topo {
-    background-image: linear-gradient(to bottom, white 40%,rgb(167, 205, 241));
+    background-image: linear-gradient(to bottom, white 35%,rgb(220, 234, 247) 88%,rgb(252, 211, 211));
     height:150px;
-    margin-bottom:10px;
+    margin-bottom:0px;
 }
 #bandeira {
     float: left;
 }
 #menu-principal {
     margin-bottom:10px;
-    background-color: #000093;
+    background-color: #0748d3;
 }
 #meuSlider{
     margin-bottom:50px;
